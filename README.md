@@ -1,6 +1,6 @@
 # Ng2Oauth2Sample
 
-a web console for [spring-boot-oauth2-sample](https://github.com/johntostring/spring-boot-oauth2-sample)
+a web console for [spring-boot-oauth2-sample](https://github.com/zhangjinhang/spring-boot-oauth2-sample)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
 
